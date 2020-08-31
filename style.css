@@ -1,0 +1,65 @@
+.blog{
+color:yellow;
+}
+
+ body{
+ font-family: sans-serif;
+     color: #777777;
+     line-height: 26px;
+}
+.half-width{
+ float:left;
+ width:50%;
+ 
+ }
+.side-img{
+width:300px;
+padding-left:10px;
+
+}
+.primary-btn{
+    color: white;
+    background-color:pink;
+    padding: 13px 42px 13px 42px;
+
+    border-radius: 20px;
+    text-decoration: none;
+
+
+}
+
+h1{
+font-size:2.5em
+}
+.container{
+    padding-left: 5%;
+    display: inline-block;
+.experiences{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
+
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
